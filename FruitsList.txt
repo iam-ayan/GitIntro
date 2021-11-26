@@ -4,3 +4,7 @@ Apples
 Bananas
 Oranges
 Pineapple
+
+Some more fruits:
+Lemon
+Mango
